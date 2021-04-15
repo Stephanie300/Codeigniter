@@ -1,0 +1,1 @@
+<h1>This is the TEST function in the Home controller</h1>
